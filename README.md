@@ -76,7 +76,9 @@ Backend-oriented project focused on traceability, workflow execution and event l
 
 **Stack:** FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT · Docker · Pytest
 
-<a href="https://github.com/JhomarSanchez/traceflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JhomarSanchez&repo=traceflow&theme=tokyonight&hide_border=true" alt="TraceFlow repository" /></a>
+<a href="https://github.com/JhomarSanchez/traceflow">
+  <img src="./assets/traceflow-card.svg" alt="TraceFlow repository" width="495" />
+</a>
 
 ### ReconGrid
 
@@ -84,7 +86,9 @@ Desktop tool for spreadsheet reconciliation, workbook comparison and auditable E
 
 **Stack:** Electron · JavaScript/TypeScript · Excel processing · Layered architecture
 
-<a href="https://github.com/JhomarSanchez/ReconGrid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JhomarSanchez&repo=ReconGrid&theme=tokyonight&hide_border=true" alt="ReconGrid repository" /></a>
+<a href="https://github.com/JhomarSanchez/ReconGrid">
+  <img src="./assets/recongrid-card.svg" alt="ReconGrid repository" width="495" />
+</a>
 
 ## Professional practice
 
@@ -98,8 +102,8 @@ During my professional internship, I developed internal automation tools for dat
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhomarSanchez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jhomar's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhomarSanchez&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
+  <img src="./assets/github-profile-card.svg" alt="Jhomar's GitHub profile snapshot" height="165" />
+  <img src="./assets/technology-focus-card.svg" alt="Technology focus" height="165" />
 </p>
 
 > Some of my most relevant work is private because it was developed for real clients. Public repositories show personal projects and sanitized technical work.
