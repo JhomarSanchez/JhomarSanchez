@@ -1,0 +1,28 @@
+<svg width="495" height="170" viewBox="0 0 495 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Most relevant technologies</title>
+  <desc id="desc">Static technology focus card</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="495" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFBEB"/>
+      <stop offset="0.5" stop-color="#E0F2FE"/>
+      <stop offset="1" stop-color="#F5D0FE"/>
+    </linearGradient>
+    <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 0.07"/></feComponentTransfer></filter>
+  </defs>
+  <rect width="495" height="170" rx="18" fill="url(#g)"/>
+  <rect width="495" height="170" rx="18" filter="url(#noise)" opacity="0.55"/>
+  <rect x="1" y="1" width="493" height="168" rx="17" stroke="#CBD5E1"/>
+  <text x="26" y="42" font-size="22" font-family="Segoe UI,Inter,Arial" font-weight="700" fill="#0F172A">Technology focus</text>
+  <text x="26" y="78" font-size="13" font-family="Segoe UI,Inter,Arial" fill="#334155">TypeScript / JavaScript</text>
+  <rect x="180" y="68" width="265" height="10" rx="5" fill="#E2E8F0"/>
+  <rect x="180" y="68" width="116" height="10" rx="5" fill="#3178C6"/>
+  <text x="26" y="104" font-size="13" font-family="Segoe UI,Inter,Arial" fill="#334155">Python</text>
+  <rect x="180" y="94" width="265" height="10" rx="5" fill="#E2E8F0"/>
+  <rect x="180" y="94" width="66" height="10" rx="5" fill="#3776AB"/>
+  <text x="26" y="130" font-size="13" font-family="Segoe UI,Inter,Arial" fill="#334155">SQL / Databases</text>
+  <rect x="180" y="120" width="265" height="10" rx="5" fill="#E2E8F0"/>
+  <rect x="180" y="120" width="47" height="10" rx="5" fill="#4169E1"/>
+  <text x="26" y="156" font-size="13" font-family="Segoe UI,Inter,Arial" fill="#334155">Dart / Flutter</text>
+  <rect x="180" y="146" width="265" height="10" rx="5" fill="#E2E8F0"/>
+  <rect x="180" y="146" width="34" height="10" rx="5" fill="#02569B"/>
+</svg>
